@@ -1,0 +1,4 @@
+matplotlib
+cvzone
+opencv-python
+numpy
